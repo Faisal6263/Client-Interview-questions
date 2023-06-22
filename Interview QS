@@ -1,0 +1,31 @@
+Limitations of sharepoint 
+Limitations of gallery canvas app
+update context in canvas app (application/use)
+License require for sharepoint
+Difference in search & filter in canvas app
+Delegation means what ?
+what type of delegation are there in canvas app
+
+what is lookup 
+can we use calculate in view
+
+Scenation based questions -
+1) 
+
+if one person is using a form for data entry 
+option (A) Model driven application
+option (B) canvas app
+
+how to use security role in dataverse 
+for example || Row level security
+
+2) What will you use in Drop box if you have multiselect option where department & supervisor is the field in 
+which selecting these options -------> display into gallery
+
+3)
+Do you need license for every user whi is using an application from cavnas app
+
+4)
+How to get the option set value from a form using javascript ---> Formcontext.getattribute("Logical_name").getValue();
+
+5) in canvas application there is error & validation which comes in yellow (Validation error in canvas app) Explain that
