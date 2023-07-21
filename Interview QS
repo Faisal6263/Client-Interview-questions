@@ -23,7 +23,7 @@ for example || Row level security
 which selecting these options -------> display into gallery
 
 3)
-Do you need license for every user whi is using an application from cavnas app
+Do you need license for every user which is using an application from cavnas app
 
 4)
 How to get the option set value from a form using javascript ---> Formcontext.getattribute("Logical_name").getValue();
